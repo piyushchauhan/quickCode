@@ -1,7 +1,21 @@
-# quickCode
+quickCode
+=========
+
 Code that are required for quick development and reference
 
-## Logging
+Table of contents
+=================
+
+<!--ts-->
+   * [quickCode](#quickCode)
+   * [Table of contents](#table-of-contents)
+   * [Logging](#logging)
+   * [Pytorch](#pytorch)
+      * [GPU verification](#)
+<!--te-->
+
+Logging
+=======
 
 ```
 import logging
@@ -10,7 +24,8 @@ logging.basicConfig(level=logging.DEBUG,
 # logging.disable(sys.maxsize)
 ```
 
-## Pytorch
+Pytorch
+=======
 
  - GPU verification
  
