@@ -13,6 +13,10 @@ Table of contents
    * [Plots](#Plots)
    * [Pytorch](#Pytorch)
       * [GPU verification](#)
+   * Cheat Sheets
+      * [Pandas](cheatSheets/pandas-cheat-sheet.pdf)
+      * [Numpy](cheatSheets/Numpy_Python_Cheat_Sheet.pdf)
+      * [Matplotlib](cheatSheets/Python_Matplotlib_Cheat_Sheet.pdf)
 <!--te-->
 
 Logging
@@ -65,4 +69,3 @@ Pytorch
 =======
 
  - GPU verification
- 
